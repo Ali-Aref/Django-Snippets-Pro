@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+class ${1:MODEL}UpdateView(generic.UpdateView):
+    model = ${2:$1}
+    template_name = "${3:$1/$1_form.html}"
+    form_class = forms.${4:$1Form}
+    success_url = ${5:.}
+
+    def get_object(self):
+    	return $1.objects.get(pk={6:self.kwargs.get("pk")})
+    ${0}
+]]></content>
+    <tabTrigger>updateview</tabTrigger>
+    <scope>source.python</scope>
+</snippet>

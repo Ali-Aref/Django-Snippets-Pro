@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+def clean_${1:Field}(self):
+    $1 = self.cleaned_data["$1"]
+    ${0}    
+    return $1
+]]></content>
+    <tabTrigger>fclean</tabTrigger>
+    <scope>source.python</scope>
+    <description>Fun clean_field</description>
+</snippet>

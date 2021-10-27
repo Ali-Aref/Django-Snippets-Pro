@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+def __init__(self, *args, **kwargs):
+    return super(self.__class__, self).__init__(*args, **kwargs)
+    ${0}
+]]></content>
+	<tabTrigger>init</tabTrigger>
+	<scope>source.python</scope>
+	<description>Fun init</description>
+</snippet>

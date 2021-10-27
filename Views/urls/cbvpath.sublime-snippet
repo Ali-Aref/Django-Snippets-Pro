@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[path("${1:PATH}", v.${2:VIEW}.as_view(), name="${0:PATH_NAME}"),]]></content>
+    <tabTrigger>cpath</tabTrigger>
+    <scope>source.python</scope>
+    <description>CBV Path</description>
+</snippet>

@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+class ${1:MODEL}DeleteView(generic.DeleteView):
+    model = ${2:$1} 
+    template_name = "${3:TEMPLATE}"
+
+    def get_success_url(sefl):
+        return reverse("${4:$1:list}")
+
+    def get(self, request, *args, **kwargs):
+        return self.post(request, *args, **kwargs)
+    ${0}
+]]></content>
+    <tabTrigger>deleteview</tabTrigger>
+    <scope>source.python</scope>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+def get_form_kwargs(self):
+    kwargs = super(self.__class__, self).get_form_kwargs()
+    return kwargs
+    ${0}
+]]></content>
+    <tabTrigger>getformkwargs</tabTrigger>
+    <scope>source.python</scope>
+    <description>Fun get_form_kwargs</description>
+</snippet>

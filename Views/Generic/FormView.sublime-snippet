@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+class ${1:FormName}FormView(generic.FormView):
+    form_class = ${2:forms.$1Form}
+    template_name = "${3:TemplateName}"
+${0}
+]]></content>
+    <tabTrigger>formview</tabTrigger>
+    <scope>source.python</scope>
+</snippet>

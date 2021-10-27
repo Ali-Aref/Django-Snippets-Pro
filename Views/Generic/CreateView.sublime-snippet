@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+class ${1:MODEL}CreateView(generic.CreateView):
+    model = ${2:$1}
+    template_name = "${3:$1/$1_form.html}"
+    form_class = ${4:forms.$1Form}
+    success_url = "${5:.}"
+    ${0}
+]]></content>
+	<tabTrigger>createview</tabTrigger>
+	<scope>source.python</scope>
+</snippet>

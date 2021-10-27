@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[from django.contrib.auth import get_user_model]]></content>
+    <tabTrigger>igu</tabTrigger>
+    <scope>source.python</scope>
+    <description>import get_user_model</description>
+</snippet>

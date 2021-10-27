@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+def get_success_url(self):
+    return reverse("${1:VIEW_NAME}", kwargs={${2:"pk":self.get_object().pk}})
+    ${0}
+]]></content>
+    <tabTrigger>getsuccessurl</tabTrigger>
+    <scope>source.python</scope>
+    <description>Fun get_success_url</description>
+</snippet>

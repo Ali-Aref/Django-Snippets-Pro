@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+def form_invalid(self, form):
+    return super(self.__class__, self).form_invalid(form)
+    ${0}
+]]></content>
+    <tabTrigger>forminvalid</tabTrigger>
+    <scope>source.python</scope>
+    <description>Fun form_invalid</description>
+</snippet>

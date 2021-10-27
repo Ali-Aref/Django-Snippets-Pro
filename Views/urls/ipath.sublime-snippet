@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[path("${1:PATH}", include("${2}.urls", namespace="${0:NAME}")),]]></content>
+    <tabTrigger>ipath</tabTrigger>
+    <scope>source.python</scope>
+    <description>Path As Include</description>
+</snippet>

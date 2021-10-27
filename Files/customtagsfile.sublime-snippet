@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+from django import template
+
+register = template.Library()
+
+
+# TODO: Create your custom tags here.
+${0}
+
+]]></content>
+    <tabTrigger>customtagsfile</tabTrigger>
+    <scope>source.python</scope>
+    <description>custom-tags file template</description>
+</snippet>

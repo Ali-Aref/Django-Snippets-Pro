@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+class ${1:ModelName}Inline(admin.StackedInline):
+    model = ${2:$1}
+    min_num = ${3:3}
+    max_num = ${4:20}
+    extra = ${5:1}
+    ${0}
+]]></content>
+    <tabTrigger>stackedinline</tabTrigger>
+    <scope>source.python</scope>
+    <description>StackedInline View</description>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+return render_to_response('${1:template.html}', {
+        ${2}
+    }${0:, context_instance=RequestContext(request)}
+)
+]]></content>
+    <tabTrigger>r2r</tabTrigger>
+    <scope>source.python</scope>
+    <description>Fun render_to_response</description>
+</snippet>

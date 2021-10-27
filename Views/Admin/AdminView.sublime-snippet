@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+@admin.register($1)
+class ${1:ModelName}Admin(admin.ModelAdmin):
+    list_display = "${2:FIELDS}",
+    search_fields = "${3:SEARCH-FIELDS}",
+    list_filter = "${4:FILTER-FIELDS}",
+    ${0}
+]]></content>
+    <tabTrigger>adminview</tabTrigger>
+    <scope>source.python</scope>
+    <description>Admin View</description>
+</snippet>

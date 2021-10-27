@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+class ${1:ModelName}Inline(admin.TabularInline):
+    model = ${2:$1}
+    min_num = ${3:3}
+    max_num = ${4:20}
+    extra = ${5:1}
+    ${0}
+]]></content>
+    <tabTrigger>tabularinline</tabTrigger>
+    <scope>source.python</scope>
+    <description>TabularInline View</description>
+</snippet>

@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+from django import forms
+from ${1:.models} import ${2}
+
+
+# TODO: Create your forms here
+${0}
+]]></content>
+    <tabTrigger>formfile</tabTrigger>
+    <scope>source.python</scope>
+    <description>form file template</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+class ${1:CLASS}(generic.TemplateView):
+    template_name = "${2:TEMPLATE}"
+]]></content>
+	<tabTrigger>templateview</tabTrigger>
+	<scope>source.python</scope>
+</snippet>
