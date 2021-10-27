@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+{% block extrajslibs %}
+    ${1:$SELECTION}
+{% endblock extrajslibs %}
+]]>	</content>
+    <tabTrigger>extrajslibs</tabTrigger>
+    <scope>text.html.django</scope>
+    <description>block extra JSLibs</description>
+</snippet>

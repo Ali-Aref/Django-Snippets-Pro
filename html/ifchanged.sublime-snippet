@@ -1,7 +1,6 @@
-<!-- See http://www.sublimetext.com/docs/snippets for more information -->
 <snippet>
 	<content><![CDATA[
-{% ifchanged $1 %}
+{% ifchanged ${1} %}
 	${2:$SELECTION}
 {% endifchanged %}
 ]]>	</content>

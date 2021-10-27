@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+{% block extrascript %}
+    ${1:$SELECTION}
+{% endblock extrascript %}
+]]>	</content>
+    <tabTrigger>extrascript</tabTrigger>
+    <scope>text.html.django</scope>
+    <description>block extra script</description>
+</snippet>
