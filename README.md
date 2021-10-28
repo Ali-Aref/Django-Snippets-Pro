@@ -51,6 +51,20 @@ Using [Package Control](https://packagecontrol.io/installation):
 | customtagsfile |  Custom Tags File Template    |
 
 
+<br >
+
+## Django Snippets For Urls 
+
+| Abbreviation   |  Description                             |
+|----------------|------------------------------------------|
+| urlfile  	     |  Urls file template                      |
+| path     	     |  ``path("", VIEW, name="")``             |
+| cpath     	 |  ``path("", VIEW.as_view(), name="")``   |
+| ipath     	 |  ``path("", include("", namespace=""))`` |
+| reverse     	 |  ``reverse("", args=[], kwargs={})``     |
+| lreverse     	 |  ``reverse_lazy("", args=[], kwargs={})``|
+
+
 <br />
 
 ## Django Snippets For Models 
@@ -187,18 +201,6 @@ Using [Package Control](https://packagecontrol.io/installation):
 | r2r     	     |  render_to_response           |
 
 
-<br >
-
-## Django Snippets For Urls 
-
-| Abbreviation   |  Description                             |
-|----------------|------------------------------------------|
-| urlfile  	     |  Urls file template                      |
-| path     	     |  FBV path                                |
-| cpath     	 |  CBV path          		                |
-| ipath     	 |  path as Include           	            |
-| reverse     	 |  ``reverse("", args=[], kwargs={})``     |
-| lreverse     	 |  ``reverse_lazy("", args=[], kwargs={})``|
 
 
 <br >
