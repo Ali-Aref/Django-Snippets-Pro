@@ -13,7 +13,8 @@ Using [Package Control](https://packagecontrol.io/installation):
 
 Package will provide snippets in following categories.
 
-<!-- | snippets       | description                                              |
+<!-- 
+| snippets       | description                                              |
 |--------------- |----------------------------------------------------------|
 | [imports]()    | snippets for imports                   				    |
 | [models]()     | snippets for models, model fields      				    |
