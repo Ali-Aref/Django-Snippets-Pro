@@ -38,6 +38,15 @@ Using [Package Control](https://packagecontrol.io/installation):
 | traceback    | traceback	    | ``import traceback; traceback.print_exc();``       |
 
 
+## Django Snippet For File Templates
+
+| Abbreviation   |  Description                  |
+|----------------|-------------------------------|
+| urlfile        |  Url File Template            |
+| formfile       |  Forms File Tempalte          |
+| customtagsfile |  Custom Tags File Template    |
+
+
 ## Django Snippets For Models 
 
 | Abbreviation |  Description                  |
@@ -90,6 +99,7 @@ Using [Package Control](https://packagecontrol.io/installation):
 
 | Abbreviation |  Description                  |
 |--------------|-------------------------------|
+| formfile     |  Forms File Template          |
 | form         |  Django Form                  |
 | modelform    |  Django Model Form            |
 | fclean       |  clean_field 	         	   |
@@ -129,13 +139,6 @@ Using [Package Control](https://packagecontrol.io/installation):
 | fuuid        | UUID		     | ``forms.UUIDField()``                |
 
 
-## Django Snippet For File Templates
-
-| Abbreviation   |  Description                  |
-|----------------|-------------------------------|
-| urlfile        |  Url File Template            |
-| formfile       |  Forms File Tempalte          |
-| customtagsfile |  Custom Tags File Template    |
 
 
 ## Django Snippets For Views
@@ -180,6 +183,7 @@ Using [Package Control](https://packagecontrol.io/installation):
 
 | Abbreviation   |  Description                  |
 |----------------|-------------------------------|
+| urlfile  	     |  Urls file template           |
 | path     	     |  FBV path                     |
 | cpath     	 |  CBV path          		     |
 | ipath     	 |  path as Include           	 |

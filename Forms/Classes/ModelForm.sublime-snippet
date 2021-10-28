@@ -6,7 +6,7 @@ class ${1:MODELNAME}Form(forms.ModelForm):
         model = $1
         fields = ('$2',)
     ]]></content>
-    <tabTrigger>ModelForm</tabTrigger>
+    <tabTrigger>modelform</tabTrigger>
     <scope>source.python</scope>
     <description>ModelForm</description>
 </snippet>

@@ -4,7 +4,7 @@ class ${1:FormName}(forms.Form):
         """${2:TODO: Define fields here}"""
         ${0}
     ]]></content>
-    <tabTrigger>Form</tabTrigger>
+    <tabTrigger>form</tabTrigger>
     <scope>source.python</scope>
     <description>Form</description>
 </snippet>
