@@ -1,9 +1,10 @@
 [![PyPi license](https://badgen.net/pypi/license/pip/)](https://github.com/Ali-Aref/Django-Snippets-Pro/blob/main/LICENSE.md)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-blue.svg)](https://github.com/Ali-Aref/Django-Snippets-Pro)
+[![Generic badge](https://img.shields.io/badge/for-sublime-orange.svg)](https://www.sublimetext.com/)
 [![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
-[![Generic badge](https://img.shields.io/badge/for-Sublime-orange.svg)](https://www.sublimetext.com/)
+[![Generic badge](https://img.shields.io/badge/v-1.0.0-1abc9c.svg)](https://github.com/Ali-Aref/Django-Snippets-Pro)
 
 # Django Snippets Pro
 
