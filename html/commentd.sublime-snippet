@@ -1,10 +1,10 @@
 <snippet>
 	<content><![CDATA[
-{% comment %}
+{% comment "${1}" %}
 	${2:$SELECTION}
 {% endcomment %}
 ]]>	</content>
-    <tabTrigger>comment</tabTrigger>
+    <tabTrigger>commentd</tabTrigger>
     <scope>text.html.django</scope>
     <description>comment</description>
 </snippet>

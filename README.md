@@ -11,15 +11,17 @@ Using [Package Control](https://packagecontrol.io/installation):
 - Type “Install Package” and hit return.
 - Type “Django Sinppets Pro” and hit return.
 
-| Snippets     | Description                                                                      |
-|--------------|----------------------------------------------------------------------------------|
-| [Imports]()  | Snippets For Imports                   				                          |
-| [Models]()   | Snippets For Models, Model Fields      				                          |
-| [Forms]()    | Snippets For Forms, Form Fields   		   				                          |
-| [Views]()    | Snippets For Views(Views, GenericViews, AdminViews & Extra snippets for methods) |
-| [Files]()    | Snippets For File Templates (urls, forms, cutomtags)	   						  |
-| [Urls]()     | Snippets For Urls (FBV path, CVB path, path as Include)   						  |
-| [html]()     | Snippets For HMTL files                                 						  |
+Package will provide snippets in following categories.
+
+| Snippets      | Description                                                                      |
+|---------------|----------------------------------------------------------------------------------|
+| [Imports]()   | Snippets For Imports                   				                           |
+| [Models]()    | Snippets For Models, Model Fields      				                           |
+| [Forms]()     | Snippets For Forms, Form Fields   		   				                       |
+| [Views]()     | Snippets For Views(Views, GenericViews, AdminViews & Extra snippets for methods) |
+| [Files]()     | Snippets For File Templates (urls, forms, cutomtags)	   						   |
+| [Urls]()      | Snippets For Urls (FBV path, CVB path, path as Include)   					   |
+| [HTML Files]()| Snippets For HMTL files                                 						   |
 
 <br />
 
@@ -102,7 +104,7 @@ Using [Package Control](https://packagecontrol.io/installation):
 | mpossmallint | SmallPosInteger| ``models.PositiveSmallIntegerField()``  |
 | mslug        | Slug    		| ``models.SlugField()``                  |
 | msmallint    | SmallInt		| ``models.SmallIntegerFiled()``          |
-| msmallauto   | SmallAuto		| ``models.SmallAutoField()``          |
+| msmallauto   | SmallAuto		| ``models.SmallAutoField()``             |
 | mtext        | Text	        | ``models.TextField()``                  |
 | mtime        | Time			| ``models.TimeField()``                  |
 | murl         | URL			| ``models.URLField()``                   |
@@ -199,9 +201,6 @@ Using [Package Control](https://packagecontrol.io/installation):
 | getsuccessurl  |  get_success_url			 	 |
 | r2r     	     |  render_to_response           |
 
-
-
-
 <br >
 <br >
 
@@ -214,6 +213,7 @@ Using [Package Control](https://packagecontrol.io/installation):
 | blocktrans     | ``{% blocktrans %} {% endblocktrans %}``               |
 | blocktrans     | ``{% blocktrans with as %} {% endblocktrans %}``       |
 | comment        | ``{% comment %} {% endcomment %}``                     |
+| commentd       | ``{% comment "" %} {% endcomment %}``                  |
 | csrf           | ``{% csrf_token %}``                                   |
 | cycle          | ``{% cycle %}``                                        |
 | debug          | ``{% debug %}``                                        |
@@ -231,7 +231,6 @@ Using [Package Control](https://packagecontrol.io/installation):
 | ifeq           | ``{% ifequal %} {% endifequal %}``                     |
 | ifequal        | ``{% ifequal %} {% endifequal %}``                     |
 | ifnotequal     | ``{% ifnotequal %} {% endifnotequal %}``               |
-| inc            | ``{% include %}``                                      |
 | include        | ``{% include %}``                                      |
 | load           | ``{% load %}``                                         |
 | now            | ``{% now "" %}``                                       |
