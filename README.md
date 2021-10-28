@@ -1,8 +1,9 @@
-[![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.com/project/pip/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-blue.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![PyPi license](https://badgen.net/pypi/license/pip/)](https://github.com/Ali-Aref/Django-Snippets-Pro/blob/main/LICENSE.md)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-blue.svg)](https://github.com/Ali-Aref/Django-Snippets-Pro)
 [![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
+[![Generic badge](https://img.shields.io/badge/for-Sublime-orange.svg)](https://www.sublimetext.com/)
 
 # Django Snippets Pro
 
