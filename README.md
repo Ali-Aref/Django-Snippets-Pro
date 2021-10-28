@@ -1,6 +1,16 @@
 # Django Snippets Pro
 
-## Description
+Django Snippets Pro provides django support for Sulime Text.
+
+| Snippets     | Description                                                                      |
+|--------------|----------------------------------------------------------------------------------|
+| [Imports](https://github.com/Ali-Aref/Django-Snippets-Pro#django-snippets-for-imports)| Snippets For Imports                   				                          |
+| Models       | Snippets For Models, Model Fields      				                          |
+| Forms        | Snippets For Forms, Form Fields   		   				                          |
+| Views        | Snippets For Views(Views, GenericViews, AdminViews & Extra snippets for methods) |
+| Files        | Snippets For File Templates (urls, forms, cutomtags)	   						  |
+| Urls         | Snippets For Urls (FBV path, CVB path, path as Include)   						  |
+
 
 ## Installation
 
