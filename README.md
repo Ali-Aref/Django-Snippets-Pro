@@ -2,6 +2,15 @@
 
 Django Snippets Pro provides django support for Sulime Text.
 
+
+## Installation
+
+Using [Package Control](https://packagecontrol.io/installation):
+
+- Open the Command Pallete (`ctrl+shift+P` or `cmd+shift+P`).
+- Type “Install Package” and hit return.
+- Type “Django Sinppets Pro” and hit return.
+
 | Snippets     | Description                                                                      |
 |--------------|----------------------------------------------------------------------------------|
 | [Imports]()  | Snippets For Imports                   				                          |
@@ -11,15 +20,6 @@ Django Snippets Pro provides django support for Sulime Text.
 | [Files]()    | Snippets For File Templates (urls, forms, cutomtags)	   						  |
 | [Urls]()     | Snippets For Urls (FBV path, CVB path, path as Include)   						  |
 | [html]()     | Snippets For HMTL files                                 						  |
-
-
-## Installation
-
-Using [Package Control](https://packagecontrol.io/installation):
-
-- Open the Command Pallete (`ctrl+shift+P` or `cmd+shift+P`).
-- Type “Install Package” and hit return.
-- Type “Django Sinppets Pro” and hit return.
 
 <br />
 
@@ -57,7 +57,6 @@ Using [Package Control](https://packagecontrol.io/installation):
 
 | Abbreviation   |  Description                             |
 |----------------|------------------------------------------|
-| urlfile  	     |  Urls file template                      |
 | path     	     |  ``path("", VIEW, name="")``             |
 | cpath     	 |  ``path("", VIEW.as_view(), name="")``   |
 | ipath     	 |  ``path("", include("", namespace=""))`` |
