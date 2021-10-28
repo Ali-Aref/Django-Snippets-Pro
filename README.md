@@ -32,7 +32,7 @@ Using [Package Control](https://packagecontrol.io/installation):
 | Abbreviation |  Description                  |
 |--------------|-------------------------------|
 | model        |  Full model template          |
-| smodel       |  simple model template        |
+| smodel       |  Simple model template        |
 
 
 | Abbreviation | Name           | Tag                                     |
@@ -83,7 +83,7 @@ Using [Package Control](https://packagecontrol.io/installation):
 | modelform    |  Django Model Form            |
 
 
-| Abbreviation | Name            | Code                                 |
+| Abbreviation | Name            | Description                          |
 |--------------|-----------------|--------------------------------------|
 | fbool        | Boolean	     | ``forms.BooleanField()``             |
 | fchar        | Char		     | ``forms.CharField()``                |
@@ -138,7 +138,7 @@ Using [Package Control](https://packagecontrol.io/installation):
 | detailview     |  Detail View    				 |
 | deleteview     |  Delete View    				 |
 | templateview   |  Template View  				 |
-| adminview  	 |  Admin View  				 |
+| adminview  	 |  Admin View (admins.py)	 	 |
 | tabularinline  |  Admin Tabular inline view  	 |
 | stackedinline  |  Admin Stacked inline view  	 |
 
@@ -167,12 +167,9 @@ Using [Package Control](https://packagecontrol.io/installation):
 | cpath     	 |  CBV path          		     |
 | ipath     	 |  path as Include           	 |
 | r2r     	     |  render_to_response           |
-| r2r     	     |  render_to_response           |
-| r2r     	     |  render_to_response           |
-| r2r     	     |  render_to_response           |
 
 
-### Urls Extra Snippets
+#### Urls Extra Snippets
 
 | Abbreviation   |  Description                  |
 |----------------|-------------------------------|
