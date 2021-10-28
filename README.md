@@ -271,8 +271,8 @@ Package will provide snippets in following categories.
 | trans          | ``{% trans %}``                                        |
 | url            | ``{% url %}``                                          |
 | verbatim       | ``{% verbatim %} {% endverbatim %}``                   |
-| vv             | ``{{   }}``             						          |
-| tag            | ``{%   %}``             						          |
+| vv             | ``{{   }}``             						                         |
+| tag            | ``{%   %}``             						                         |
 | widthratio     | ``{% widthratio %}``                                   |
 | with           | ``{% with as %} {% endwith %}``                        |
 | extrahead      | ``{% block extrahead %} {% endblock extrahead %}``     |
