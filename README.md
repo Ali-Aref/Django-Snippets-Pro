@@ -25,7 +25,7 @@ Using [Package Control](https://packagecontrol.io/installation):
 | ipdb         | ipdb	        | ``import ipdb; ipdb.set_trace()``                  |
 | npdb         | npdb	        | ``from nose.tools import set_trace; set_trace()``  |
 | traceback    | traceback	    | ``import traceback; traceback.print_exc();``       |
-|------------------------------------------------------------------------------------|
+
 
 ## Django Snippets For Models 
 
@@ -33,7 +33,6 @@ Using [Package Control](https://packagecontrol.io/installation):
 |--------------|-------------------------------|
 | model        |  Full model template          |
 | smodel       |  simple model template        |
-|--------------|-------------------------------|
 
 
 | Abbreviation | Name           | Tag                                     |
@@ -74,7 +73,6 @@ Using [Package Control](https://packagecontrol.io/installation):
 | fk           | Foreignkey		| ``models.ForeignKey()``                 |
 | m2m          | ManyToMany		| ``models.ManyToManyField()``            |
 | o2o          | OneToOne		| ``models.OneToOneField()``              |
-|-------------------------------------------------------------------------|
 
 
 ## Django Snippets For Forms
@@ -83,7 +81,6 @@ Using [Package Control](https://packagecontrol.io/installation):
 |--------------|-------------------------------|
 | form         |  Django Form                  |
 | modelform    |  Django Model Form            |
-|--------------|-------------------------------|
 
 
 | Abbreviation | Name            | Code                                 |
@@ -117,7 +114,6 @@ Using [Package Control](https://packagecontrol.io/installation):
 | ftmuchoice   | TupedMultiChoice| ``forms.TypedMultipleChoiceField()`` |
 | furl         | URL		     | ``forms.URLField()``                 |
 | fuuid        | UUID		     | ``forms.UUIDField()``                |
-|--------------|-----------------|--------------------------------------|
 
 
 ## Django Snippet For File Templates
@@ -127,7 +123,6 @@ Using [Package Control](https://packagecontrol.io/installation):
 | urlfile        |  Url File Template            |
 | formfile       |  Forms File Tempalte          |
 | customtagsfile |  Custom Tags File Template    |
-|----------------|-------------------------------|
 
 
 ## Django Snippets For Views
@@ -146,7 +141,6 @@ Using [Package Control](https://packagecontrol.io/installation):
 | adminview  	 |  Admin View  				 |
 | tabularinline  |  Admin Tabular inline view  	 |
 | stackedinline  |  Admin Stacked inline view  	 |
-|----------------|-------------------------------|
 
 
 #### Views Extra Snippets
@@ -176,7 +170,6 @@ Using [Package Control](https://packagecontrol.io/installation):
 | r2r     	     |  render_to_response           |
 | r2r     	     |  render_to_response           |
 | r2r     	     |  render_to_response           |
-|----------------|-------------------------------|
 
 
 ### Urls Extra Snippets
@@ -186,7 +179,6 @@ Using [Package Control](https://packagecontrol.io/installation):
 | path     	     |  FBV path                     |
 | cpath     	 |  CBV path          		     |
 | ipath     	 |  path as Include           	 |
-|----------------|-------------------------------|
 
 
 ## Django Snippets For HTML Files
