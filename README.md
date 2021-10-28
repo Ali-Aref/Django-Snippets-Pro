@@ -13,15 +13,28 @@ Using [Package Control](https://packagecontrol.io/installation):
 
 Package will provide snippets in following categories.
 
-| Snippets      | Description                                                                      |
-|---------------|----------------------------------------------------------------------------------|
-| [Imports]()   | Snippets For Imports                   				                           |
-| [Models]()    | Snippets For Models, Model Fields      				                           |
-| [Forms]()     | Snippets For Forms, Form Fields   		   				                       |
-| [Views]()     | Snippets For Views(Views, GenericViews, AdminViews & Extra snippets for methods) |
-| [Files]()     | Snippets For File Templates (urls, forms, cutomtags)	   						   |
-| [Urls]()      | Snippets For Urls (FBV path, CVB path, path as Include)   					   |
-| [HTML Files]()| Snippets For HMTL files                                 						   |
+<!-- | snippets       | description                                              |
+|--------------- |----------------------------------------------------------|
+| [imports]()    | snippets for imports                   				    |
+| [models]()     | snippets for models, model fields      				    |
+| [forms]()      | snippets for forms, form fields   		   				|
+| [views]()      | snippets for views(views, genericviews, adminviews)      |
+| [views extra]()| snippets for views(views, genericviews, adminviews)      |     
+| [files]()      | snippets for file templates (urls, forms, cutomtags)	   	|
+| [urls]()       | snippets for urls (fbv path, cvb path, path as include)  |
+| [html files]() | snippets for hmtl files                                 	|
+ -->
+
+| snippets       | description                                              |
+|--------------- |----------------------------------------------------------|
+| [imports](https://github.com/Ali-Aref/Django-Snippets-Pro#django-snippets-for-imports)    | snippets for imports                   				    |
+| [models](https://github.com/Ali-Aref/Django-Snippets-Pro#django-snippets-for-models)     | snippets for models, model fields      				    |
+| [forms](https://github.com/Ali-Aref/Django-Snippets-Pro#django-snippets-for-forms)      | snippets for forms, form fields   		   				|
+| [views](https://github.com/Ali-Aref/Django-Snippets-Pro#django-snippets-for-views)      | snippets for views(views, genericviews, adminviews)      |
+| [views extra](https://github.com/Ali-Aref/Django-Snippets-Pro#views-extra-snippets)| snippets for views(views, genericviews, adminviews)      |     
+| [files](https://github.com/Ali-Aref/Django-Snippets-Pro#django-snippet-for-file-templates)      | snippets for file templates (urls, forms, cutomtags)	   	|
+| [urls](https://github.com/Ali-Aref/Django-Snippets-Pro#django-snippets-for-urls)       | snippets for urls (fbv path, cvb path, path as include)  |
+| [html files](https://github.com/Ali-Aref/Django-Snippets-Pro#django-snippets-for-html-files) | snippets for hmtl files                                 	|
 
 <br />
 
