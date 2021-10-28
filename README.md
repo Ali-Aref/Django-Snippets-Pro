@@ -15,11 +15,11 @@ Django Snippets Pro provides django support for Sulime Text.
 For Installing the package manually first make sure you have installed git on your system (specially on windows).
 Install package as a single command depending on your platform: 
 - **OSX**
-`git clone https://github.com/Ali-Aref/Django-Snippets-Pro.git ~/Library/Application Support/Subime Text 3/Packages`
+`git clone https://github.com/Ali-Aref/Django-Snippets-Pro.git ~/Library/Application Support/Subime Text 3/Packages/Django Snippets Pro/`
 - **Linux**
-`git clone https://github.com/Ali-Aref/Django-Snippets-Pro.git ~/.config/sublime-text-3/Packages`
+`git clone https://github.com/Ali-Aref/Django-Snippets-Pro.git ~/.config/sublime-text-3/Packages/Django Snippets Pro/`
 - **Windows**
-`git clone https://github.com/Ali-Aref/Django-Snippets-Pro.git %APPDATA%\Sublime Text 3`
+`git clone https://github.com/Ali-Aref/Django-Snippets-Pro.git %APPDATA%\Sublime Text 3\Django Snippets Pro\`
 
 <br >
 
