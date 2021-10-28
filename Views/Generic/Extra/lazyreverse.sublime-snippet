@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[reverse_lazy("${1}", args=[${2}], kwargs={${3}})]]></content>
+	<tabTrigger>lreverse</tabTrigger>
+	<scope>source.python</scope>
+	<description>reverse_lazy()</description>
+</snippet>

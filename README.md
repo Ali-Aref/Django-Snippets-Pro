@@ -172,7 +172,7 @@ Using [Package Control](https://packagecontrol.io/installation):
 | Abbreviation   |  Description                  |
 |----------------|-------------------------------|
 | init           |  init  			     	 	 |
-| \_\_str\_\_        |  \_\_str\_\_    		         	 |
+| \_\_str\_\_        |  \_\_str\_\_    		   	 |
 | dispatch       |  dispatch   		         	 |
 | forminvalid    |  form_invalid   			 	 |
 | formvalid      |  form_valid    			 	 |
@@ -189,14 +189,16 @@ Using [Package Control](https://packagecontrol.io/installation):
 
 <br >
 
-## Urls Extra Snippets
+## Django Snippets For Urls 
 
-| Abbreviation   |  Description                  |
-|----------------|-------------------------------|
-| urlfile  	     |  Urls file template           |
-| path     	     |  FBV path                     |
-| cpath     	 |  CBV path          		     |
-| ipath     	 |  path as Include           	 |
+| Abbreviation   |  Description                             |
+|----------------|------------------------------------------|
+| urlfile  	     |  Urls file template                      |
+| path     	     |  FBV path                                |
+| cpath     	 |  CBV path          		                |
+| ipath     	 |  path as Include           	            |
+| reverse     	 |  ``reverse("", args=[], kwargs={})``     |
+| lreverse     	 |  ``reverse_lazy("", args=[], kwargs={})``|
 
 
 <br >
