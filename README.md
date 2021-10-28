@@ -4,12 +4,13 @@ Django Snippets Pro provides django support for Sulime Text.
 
 | Snippets     | Description                                                                      |
 |--------------|----------------------------------------------------------------------------------|
-| [Imports](https://github.com/Ali-Aref/Django-Snippets-Pro#django-snippets-for-imports)| Snippets For Imports                   				                          |
-| Models       | Snippets For Models, Model Fields      				                          |
-| Forms        | Snippets For Forms, Form Fields   		   				                          |
-| Views        | Snippets For Views(Views, GenericViews, AdminViews & Extra snippets for methods) |
-| Files        | Snippets For File Templates (urls, forms, cutomtags)	   						  |
-| Urls         | Snippets For Urls (FBV path, CVB path, path as Include)   						  |
+| [Imports]()  | Snippets For Imports                   				                          |
+| [Models]()   | Snippets For Models, Model Fields      				                          |
+| [Forms]()    | Snippets For Forms, Form Fields   		   				                          |
+| [Views]()    | Snippets For Views(Views, GenericViews, AdminViews & Extra snippets for methods) |
+| [Files]()    | Snippets For File Templates (urls, forms, cutomtags)	   						  |
+| [Urls]()     | Snippets For Urls (FBV path, CVB path, path as Include)   						  |
+| [html]()     | Snippets For HMTL files                                 						  |
 
 
 ## Installation
@@ -91,6 +92,8 @@ Using [Package Control](https://packagecontrol.io/installation):
 |--------------|-------------------------------|
 | form         |  Django Form                  |
 | modelform    |  Django Model Form            |
+| fclean       |  clean_field 	         	   |
+| ffclean      |  clean    				 	   |
 
 
 | Abbreviation | Name            | Description                          |
@@ -157,21 +160,19 @@ Using [Package Control](https://packagecontrol.io/installation):
 
 | Abbreviation   |  Description                  |
 |----------------|-------------------------------|
-| __str__        |  __str__    		         	 |
+| init           |  init  			     	 	 |
+| \_\_str\_\_        |  \_\_str\_\_    		         	 |
 | dispatch       |  dispatch   		         	 |
-| fclean         |  clean_field 	         	 |
-| ffclean        |  clean    				 	 |
 | forminvalid    |  form_invalid   			 	 |
 | formvalid      |  form_valid    			 	 |
 | get            |  get    		     		 	 |
+| post           |  post	 				 	 |
 | getcontextdata |  get_context_data    	 	 |
 | getformkwargs  |  get_form_kwargs  		 	 |
 | getinitial     |  get_initial 			 	 |
 | getobject      |  get_object				 	 |
 | getqueryset    |  get_queryset			 	 |
 | getsuccessurl  |  get_success_url			 	 |
-| init           |  init  			     	 	 |
-| post           |  post	 				 	 |
 | r2r     	     |  render_to_response           |
 
 
