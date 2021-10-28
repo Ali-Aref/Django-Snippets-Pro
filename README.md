@@ -21,6 +21,8 @@ Using [Package Control](https://packagecontrol.io/installation):
 - Type “Install Package” and hit return.
 - Type “Django Sinppets Pro” and hit return.
 
+<br />
+
 ## Django Snippets For Imports
 
 | Abbreviation | Tag            | Description                                        |
@@ -38,6 +40,8 @@ Using [Package Control](https://packagecontrol.io/installation):
 | traceback    | traceback	    | ``import traceback; traceback.print_exc();``       |
 
 
+<br />
+
 ## Django Snippet For File Templates
 
 | Abbreviation   |  Description                  |
@@ -46,6 +50,8 @@ Using [Package Control](https://packagecontrol.io/installation):
 | formfile       |  Forms File Tempalte          |
 | customtagsfile |  Custom Tags File Template    |
 
+
+<br />
 
 ## Django Snippets For Models 
 
@@ -95,6 +101,8 @@ Using [Package Control](https://packagecontrol.io/installation):
 | o2o          | OneToOne		| ``models.OneToOneField()``              |
 
 
+<br />
+
 ## Django Snippets For Forms
 
 | Abbreviation |  Description                  |
@@ -139,7 +147,7 @@ Using [Package Control](https://packagecontrol.io/installation):
 | fuuid        | UUID		     | ``forms.UUIDField()``                |
 
 
-
+<br />
 
 ## Django Snippets For Views
 
@@ -179,7 +187,9 @@ Using [Package Control](https://packagecontrol.io/installation):
 | r2r     	     |  render_to_response           |
 
 
-#### Urls Extra Snippets
+<br >
+
+## Urls Extra Snippets
 
 | Abbreviation   |  Description                  |
 |----------------|-------------------------------|
@@ -188,6 +198,9 @@ Using [Package Control](https://packagecontrol.io/installation):
 | cpath     	 |  CBV path          		     |
 | ipath     	 |  path as Include           	 |
 
+
+<br >
+<br >
 
 ## Django Snippets For HTML Files
 
