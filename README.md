@@ -163,10 +163,6 @@ Using [Package Control](https://packagecontrol.io/installation):
 | init           |  init  			     	 	 |
 | post           |  post	 				 	 |
 | r2r     	     |  render_to_response           |
-| path     	     |  FBV path                     |
-| cpath     	 |  CBV path          		     |
-| ipath     	 |  path as Include           	 |
-| r2r     	     |  render_to_response           |
 
 
 #### Urls Extra Snippets
