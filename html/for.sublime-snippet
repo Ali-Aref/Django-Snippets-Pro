@@ -1,7 +1,6 @@
-<!-- See http://www.sublimetext.com/docs/snippets for more information -->
 <snippet>
 	<content><![CDATA[
-{% for ${1} in ${2} %}
+{% for ${1:x} in ${2} %}
 	${3:$SELECTION}
 {% endfor %}
 ]]>	</content>

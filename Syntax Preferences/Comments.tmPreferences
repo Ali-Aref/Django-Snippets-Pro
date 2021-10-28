@@ -42,6 +42,18 @@
                 </dict>
                 <dict>
                         <key>name</key>
+                        <string>TM_COMMENT_START_3</string>
+                        <key>value</key>
+                        <string>{% comment "" %}</string>
+                </dict>
+                <dict>
+                        <key>name</key>
+                        <string>TM_COMMENT_END_3</string>
+                        <key>value</key>
+                        <string>{% endcomment %}</string>
+                </dict>
+                <dict>
+                        <key>name</key>
                         <string>TM_COMMENT_MODE_2</string>
                         <key>value</key>
                         <string>block</string>

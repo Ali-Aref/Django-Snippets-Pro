@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:FIELDNAME} = models.SmallAutoField($2)]]></content>
+	<tabTrigger>msmallauto</tabTrigger>
+    <scope>source.python</scope>
+    <description>SmallAuto (msmallauto)</description>
+</snippet>

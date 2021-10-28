@@ -1,8 +1,8 @@
-<!-- See http://www.sublimetext.com/docs/snippets for more information -->
 <snippet>
     <content><![CDATA[
-class ${1:FORMNAME}(forms.Form):
-    ${2:# TODO: Define form fields here}
+class ${1:FormName}(forms.Form):
+        """${2:TODO: Define fields here}"""
+        ${0}
     ]]></content>
     <tabTrigger>Form</tabTrigger>
     <scope>source.python</scope>

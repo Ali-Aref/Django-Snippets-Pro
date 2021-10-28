@@ -1,0 +1,28 @@
+<!-- See http://www.sublimetext.com/docs/snippets for more information -->
+<snippet>
+    <content><![CDATA[
+class ${1:ModelName}(models.Model):
+        # TODO: Define fields here
+        ${2}
+
+        class Meta:
+                verbose_name = "${3:$1}"
+                verbose_name_plural = "${4:$1s}"
+                ordering = [${5:'-pk'}]
+
+        def __str__(self):
+                return ${6:super($1, self).__str__()}
+
+        def save(self, *args, **kwargs):
+                return ${7:super($1, self).save(*args, **kwargs)}
+
+        def get_absolute_url(self):
+                return reverse('${8:view_or_url_name}', kwargs={${9:'pk'}: ${10: self.pk}})
+
+        # TODO: Define custom methods here
+        ${0}
+    ]]></content>
+    <tabTrigger>model</tabTrigger>
+    <scope>source.python</scope>
+    <description>Model (Full)</description>
+</snippet>
