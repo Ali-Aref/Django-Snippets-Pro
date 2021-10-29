@@ -111,6 +111,7 @@ Package will provide snippets in following categories.
 | model        |  Simple model template            |
 | msave        |  Models save Function             |
 | mfupath      |  Models file upload path function |
+| mproperty    |  Models new property function     |
 
 
 | Abbreviation | Name           | Tag                                     |

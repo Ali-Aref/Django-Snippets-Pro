@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+class Meta:
+	verbose_name = "${1}"	
+	verbose_name_plural = "${2}"	
+	ordering = [${3}]
+    ]]></content>
+    <tabTrigger>model</tabTrigger>
+    <scope>source.python</scope>
+    <description>Model (Simple)</description>
+</snippet>
