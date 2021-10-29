@@ -105,10 +105,12 @@ Package will provide snippets in following categories.
 
 ## Django Snippets For Models 
 
-| Abbreviation |  Description                  |
-|--------------|-------------------------------|
-| model        |  Full model template          |
-| smodel       |  Simple model template        |
+| Abbreviation |  Description                      |
+|--------------|-----------------------------------|
+| xmodel       |  Full model template              |
+| model        |  Simple model template            |
+| msave        |  Models save Function             |
+| mfupath      |  Models file upload path function |
 
 
 | Abbreviation | Name           | Tag                                     |

@@ -1,4 +1,3 @@
-<!-- See http://www.sublimetext.com/docs/snippets for more information -->
 <snippet>
     <content><![CDATA[
 class ${1:ModelName}(models.Model):
@@ -22,7 +21,7 @@ class ${1:ModelName}(models.Model):
         # TODO: Define custom methods here
         ${0}
     ]]></content>
-    <tabTrigger>model</tabTrigger>
+    <tabTrigger>xmodel</tabTrigger>
     <scope>source.python</scope>
     <description>Model (Full)</description>
 </snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+def save(self, *args, **kwargs):
+    return ${1:super(self.__class__, self).save(*args, **kwargs)}
+    ${0}
+]]></content>
+	<tabTrigger>msave</tabTrigger>
+	<scope>source.python</scope>
+	<description>Fun save (Models)</description>
+</snippet>
