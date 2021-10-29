@@ -1,6 +1,5 @@
-<!-- See http://www.sublimetext.com/docs/snippets for more information -->
 <snippet>
-    <content><![CDATA[${1:FIELDNAME} = models.OneToOneField($2)]]></content>
+    <content><![CDATA[${1:FIELDNAME} = models.OneToOneField(${2:OtherModel}, related_name="${0:RelatedName}")]]></content>
     <tabTrigger>o2o</tabTrigger>
     <scope>source.python</scope>
     <description>OneToOneField (o2o)</description>

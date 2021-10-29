@@ -1,6 +1,5 @@
-<!-- See http://www.sublimetext.com/docs/snippets for more information -->
 <snippet>
-    <content><![CDATA[${1:FIELDNAME} = models.DateField($2)]]></content>
+    <content><![CDATA[${1:FIELDNAME} = models.DateField(auto_now_add=${2:True}, auto_now=${0:False}})]]></content>
     <tabTrigger>mdate</tabTrigger>
     <scope>source.python</scope>
     <description>DateField (mdate)</description>

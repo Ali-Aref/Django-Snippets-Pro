@@ -1,6 +1,5 @@
-<!-- See http://www.sublimetext.com/docs/snippets for more information -->
 <snippet>
-    <content><![CDATA[${1:FIELDNAME} = models.ImageField($2)]]></content>
+    <content><![CDATA[${1:FIELDNAME} = models.ImageField(upload_to=${0:"path/for/upload"})]]></content>
     <tabTrigger>mimg</tabTrigger>
     <scope>source.python</scope>
     <description>ImageField (mimg)</description>
