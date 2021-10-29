@@ -110,7 +110,7 @@ Package will provide snippets in following categories.
 | xmodel       |  Full model template              |
 | model        |  Simple model template            |
 | msave        |  Models save Function             |
-| mfupath      |  Models file upload path function |
+| mfpath      |  Models file upload path function |
 | mproperty    |  Models new property function     |
 
 

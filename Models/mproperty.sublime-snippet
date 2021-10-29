@@ -2,7 +2,7 @@
     <content><![CDATA[
 @property
 def ${1:property_name}(self):
-	${0:pass}
+	${0:return}
     ]]></content>
     <tabTrigger>mproperty</tabTrigger>
     <scope>source.python</scope>
