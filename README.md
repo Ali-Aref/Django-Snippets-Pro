@@ -62,19 +62,19 @@ Package will provide snippets in following categories.
 
 ## Django Snippets For Imports
 
-| Abbreviation | Tag            | Description                                        |
-|--------------|----------------|----------------------------------------------------|
-| idm          | models         | ``from django import models``                      |
-| idf          | forms          | ``from django import forms``                       |
-| igu          | get_user_model | ``from django.contrib.auth import get_user_model`` |
-| igv          | generic view   | ``from django.views import generic``               |
-| ijr          | JsonResponse   | ``from django.http import JsonResponse``           |
-| ir           | reverse        | ``from django.urls import reverse``                |
-| irl          | reverse_lazy   | ``from django.urls import reverse_lazy``           |
-| pdb          | pdb	        | ``import pdb; pdb.set_trace()``                    |
-| ipdb         | ipdb	        | ``import ipdb; ipdb.set_trace()``                  |
-| npdb         | npdb	        | ``from nose.tools import set_trace; set_trace()``  |
-| traceback    | traceback	    | ``import traceback; traceback.print_exc();``       |
+| Abbreviation     | Tag            | Description                                        |
+|------------------|----------------|----------------------------------------------------|
+| imp-models       | models         | ``from django import models``                      |
+| imp-forms        | forms          | ``from django import forms``                       |
+| imp-getusermodel | get_user_model | ``from django.contrib.auth import get_user_model`` |
+| imp-generic      | generic view   | ``from django.views import generic``               |
+| imp-jsonresponse | JsonResponse   | ``from django.http import JsonResponse``           |
+| imp-reverse      | reverse        | ``from django.urls import reverse``                |
+| imp-reverselazy  | reverse_lazy   | ``from django.urls import reverse_lazy``           |
+| imp-pdb          | pdb	        | ``import pdb; pdb.set_trace()``                    |
+| imp-ipdb         | ipdb	        | ``import ipdb; ipdb.set_trace()``                  |
+| imp-npdb         | npdb	        | ``from nose.tools import set_trace; set_trace()``  |
+| imp-traceback    | traceback	    | ``import traceback; traceback.print_exc();``       |
 
 
 <br />

@@ -1,6 +1,8 @@
 <snippet>
-    <content><![CDATA[from django import models]]></content>
-    <tabTrigger>idm</tabTrigger>
-    <scope>source.python</scope>
-    <description>from django import models</description>
+  <content>
+    <![CDATA[from django import models]]>
+  </content>
+  <tabTrigger>imp-model</tabTrigger>
+  <scope>source.python</scope>
+  <description>from django import models</description>
 </snippet>
