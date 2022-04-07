@@ -1,6 +1,8 @@
 <snippet>
-    <content><![CDATA[from django.urls import reverse]]></content>
-    <tabTrigger>ir</tabTrigger>
-    <scope>source.python</scope>
-    <description>import reverse</description>
+  <content>
+    <![CDATA[from django.urls import reverse]]>
+  </content>
+  <tabTrigger>imp-reverse</tabTrigger>
+  <scope>source.python</scope>
+  <description>import reverse</description>
 </snippet>

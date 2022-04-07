@@ -1,6 +1,8 @@
 <snippet>
-    <content><![CDATA[from django.views import generic]]></content>
-    <tabTrigger>igv</tabTrigger>
-    <scope>source.python</scope>
-    <description>import generic views</description>
+  <content>
+    <![CDATA[from django.views import generic]]>
+  </content>
+  <tabTrigger>imp-generic</tabTrigger>
+  <scope>source.python</scope>
+  <description>import generic views</description>
 </snippet>

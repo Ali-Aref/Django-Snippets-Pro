@@ -1,6 +1,8 @@
 <snippet>
-    <content><![CDATA[from django.urls import reverse_lazy]]></content>
-    <tabTrigger>irl</tabTrigger>
-    <scope>source.python</scope>
-    <description>import reverse_lazy</description>
+  <content>
+    <![CDATA[from django.urls import reverse_lazy]]>
+  </content>
+  <tabTrigger>imp-reverse_lazy</tabTrigger>
+  <scope>source.python</scope>
+  <description>import reverse_lazy</description>
 </snippet>

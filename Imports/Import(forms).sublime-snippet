@@ -1,6 +1,8 @@
 <snippet>
-    <content><![CDATA[from django import forms]]></content>
-    <tabTrigger>idf</tabTrigger>
-    <scope>source.python</scope>
-    <description>from django import forms</description>
+  <content>
+    <![CDATA[from django import forms]]>
+  </content>
+  <tabTrigger>imp-forms</tabTrigger>
+  <scope>source.python</scope>
+  <description>from django import forms</description>
 </snippet>
