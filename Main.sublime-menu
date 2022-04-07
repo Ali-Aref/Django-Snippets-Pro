@@ -16,34 +16,26 @@
                         "children":
                         [
                             {
-                                "command": "open_file", "args":
-                                {
-                                    "file": "${packages}/Django Snippets Pro/Settings/HTML (Django).sublime-settings"
+                                "command": "edit_settings",
+                                "args": {
+                                    "base_file": "${packages}/Django Snippets Pro/Settings/HTML (Django).sublime-settings",
+                                    "default": "// HTML Settings - User\n{\n\t$0\n}\n"
                                 },
-                                "caption": "Settings (HTML) – Default"
+                                "caption": "HTML Settings"
                             },
                             {
-                                "command": "open_file", "args":
-                                {
-                                    "file": "${packages}/User/HTML (Django).sublime-settings"
+                                "command": "edit_settings",
+                                "args": {
+                                    "base_file": "${packages}/Django Snippets Pro/Settings/Python (Django).sublime-settings",
+                                    "default": "// Python Settings - User\n{\n\t$0\n}\n"
                                 },
-                                "caption": "Settings (HTML) – User"
-                            },
-                            { "caption": "-" },
-                            {
-                                "command": "open_file", "args":
-                                {
-                                    "file": "${packages}/Django Snippets Pro/Settings/Python (Django).sublime-settings"
-                                },
-                                "caption": "Settings (Python) – Default"
+                                "caption": "Python Settings"
                             },
                             {
-                                "command": "open_file", "args":
-                                {
-                                    "file": "${packages}/User/Python (Django).sublime-settings"
-                                },
-                                "caption": "Settings (Python) – User"
-                            }
+                                "command": "open_url", "args": 
+                                { "url": "https://github.com/Ali-Aref/Django-Snippets-Pro/blob/main/README.md" },
+                                "caption": "View Documentation"
+                            },
                         ]
                     }
                 ]

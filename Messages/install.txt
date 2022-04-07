@@ -1,0 +1,27 @@
+╔═══╗─────────────╔═══╗────────────╔╗────╔═══╗
+╚╗╔╗╠╗────────────║╔═╗║───────────╔╝╚╗───║╔═╗║
+─║║║╠╬══╦═╗╔══╦══╗║╚══╦═╗╔╦══╦══╦═╩╗╔╬══╗║╚═╝╠═╦══╗
+─║║║╠╣╔╗║╔╗╣╔╗║╔╗║╚══╗║╔╗╬╣╔╗║╔╗║║═╣║║══╣║╔══╣╔╣╔╗║
+╔╝╚╝║║╔╗║║║║╚╝║╚╝║║╚═╝║║║║║╚╝║╚╝║║═╣╚╬══║║║──║║║╚╝║
+╚═══╣╠╝╚╩╝╚╩═╗╠══╝╚═══╩╝╚╩╣╔═╣╔═╩══╩═╩══╝╚╝──╚╝╚══╝
+───╔╝║─────╔═╝║───────────║║─║║ 
+───╚═╝─────╚══╝───────────╚╝─╚╝ Django Snippets Pro
+
+
+Welcome to the Django Sinppets Pro, The best django snippet packge for Sublime Text.
+
+First Thanks for installing this package, This package started out of some frustration with
+the lack of a good django snippet plugins in Sublime Text. I figured the first step to improving
+that would make some basic snippets that can be seen as verbose for people to write.
+
+You’re welcome to recommend any snippets in the issue page of the repository
+which can be found here: https://github.com/Ali-Aref/Django-Snippets-Pro/issues
+
+You’re also welcome to fork the snippets page and send in a pull request with your snippet.
+The only thing I ask is that you keep the style consistent with the other snippets.
+
+Documentation for the snippets can be found the reference,
+go to Preferences > Packages Settings > Django Snippets Pro > View Documentation
+or just visit here: https://github.com/Ali-Aref/Django-Snippets-Pro/blob/main/README.md
+
+Thank you for using this snippets!
